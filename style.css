@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    font-size: 34px;
+    font-family: sans-serif;
+    padding: 12px;
+}
+
+div {
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div .links {
+    margin-bottom: 50px;
+}
+
+.stroganoff {
+    background-color: pink;
+    margin-right: 650px;
+}
+
+.broccoli {
+    background-color:chocolate;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.cowboy {
+    background-color: crimson;
+    margin-left: 650px;
+}
+
